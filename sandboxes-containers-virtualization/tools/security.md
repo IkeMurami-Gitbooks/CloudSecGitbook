@@ -13,3 +13,5 @@ Kics — open-source сканер terraform, k8s, docker, ansible от checkmarx
 * [Tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF
 * [Falco](https://github.com/falcosecurity/falco): open source cloud native runtime security tool.
 * [Tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement
+
+Elkeid: [https://github.com/bytedance/Elkeid](https://github.com/bytedance/Elkeid)
