@@ -35,7 +35,7 @@ SAS учетной записи защищен с помощью ключа уч
 
 ## Пример
 
-![](../../../.gitbook/assets/изображение.png)
+![](<../../../.gitbook/assets/изображение (4).png>)
 
 ```python
 def SAS(blob_service_client):
