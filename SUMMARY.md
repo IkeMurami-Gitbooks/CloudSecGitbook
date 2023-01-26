@@ -97,6 +97,8 @@
 * [Yandex Cloud](cloud/yandex-cloud/README.md)
   * [CLI](cloud/yandex-cloud/cli.md)
   * [Cloud Organization](cloud/yandex-cloud/cloud-organization.md)
+  * [Cloud Computing](cloud/yandex-cloud/cloud-computing.md)
+  * [Security](cloud/yandex-cloud/security.md)
 * [Another platforms](cloud/another-platforms.md)
 * [OpenStack](cloud/openstack.md)
 * [Tools](cloud/tools.md)

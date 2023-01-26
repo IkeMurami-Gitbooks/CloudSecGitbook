@@ -14,6 +14,6 @@ AWS В виде **mindmap** диаграммы: [https://coggle.it/diagram/WhiBw
 https://aws.amazon.com/ru/certification/certification-prep/](https://aws.amazon.com/ru/certification/certification-prep/)\
 [https://aws.amazon.com/ru/certification/](https://aws.amazon.com/ru/certification/)
 
-![](<../../.gitbook/assets/изображение (1).png>)
+![](<../../.gitbook/assets/изображение (1) (1).png>)
 
 AWS Automatic Remediation: [https://getsec.github.io/2020/02/aws-remedy-2/](https://getsec.github.io/2020/02/aws-remedy-2/)
