@@ -95,7 +95,7 @@
   * [Books & Papers](cloud/aws/books-and-papers.md)
   * [Courses & Certifications](cloud/aws/courses-and-certifications.md)
 * [Yandex Cloud](cloud/yandex-cloud/README.md)
-  * [CLI](cloud/yandex-cloud/cli.md)
+  * [YC CLI](cloud/yandex-cloud/yc-cli.md)
   * [Cloud Organization](cloud/yandex-cloud/cloud-organization.md)
   * [Cloud Computing](cloud/yandex-cloud/cloud-computing.md)
   * [Virtual Private Cloud (VPC)](cloud/yandex-cloud/virtual-private-cloud-vpc.md)
