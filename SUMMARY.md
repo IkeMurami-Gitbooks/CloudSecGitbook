@@ -98,6 +98,7 @@
   * [CLI](cloud/yandex-cloud/cli.md)
   * [Cloud Organization](cloud/yandex-cloud/cloud-organization.md)
   * [Cloud Computing](cloud/yandex-cloud/cloud-computing.md)
+  * [Virtual Private Cloud (VPC)](cloud/yandex-cloud/virtual-private-cloud-vpc.md)
   * [Security](cloud/yandex-cloud/security.md)
 * [Another platforms](cloud/another-platforms.md)
 * [OpenStack](cloud/openstack.md)
