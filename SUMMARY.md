@@ -106,6 +106,7 @@
     * [Как выбрать БД](cloud/yandex-cloud/data-platform/kak-vybrat-bd.md)
     * [Реляционные БД](cloud/yandex-cloud/data-platform/relyacionnye-bd.md)
     * [Нереляционные БД](cloud/yandex-cloud/data-platform/nerelyacionnye-bd.md)
+    * [Object Storage and S3](cloud/yandex-cloud/data-platform/object-storage-and-s3.md)
   * [Security](cloud/yandex-cloud/security.md)
 * [Another platforms](cloud/another-platforms.md)
 * [OpenStack](cloud/openstack.md)
