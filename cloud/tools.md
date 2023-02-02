@@ -9,3 +9,17 @@ ScoutSuite — [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgr
 k8s,k3s,prometheus,thanos,helm
 
 cloudquery – позволяет настраивать asset management вашей облачной инфраструктуры [https://www.cloudquery.io/](https://www.cloudquery.io/)
+
+Service Mesh — дает хорошую observability
+
+Cilium — инструмент, для управления политиками сети в Service Mesh архитиктуре
+
+No internet Policy
+
+Golden Images (предустановленные и зааппрувленные образы)
+
+Zero Trust Proxy для доступа к инфраструктуре: [https://github.com/gravitational/teleport](https://github.com/gravitational/teleport)
+
+kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https://kyverno.io/)
+
+методологии — SLSA, SAAM, ASVS
