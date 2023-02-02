@@ -18,7 +18,7 @@ No internet Policy
 
 Golden Images (предустановленные и зааппрувленные образы)
 
-Zero Trust Proxy для доступа к инфраструктуре: [https://github.com/gravitational/teleport](https://github.com/gravitational/teleport)
+Zero Trust Proxy для доступа к инфраструктуре: [https://github.com/gravitational/teleport](https://github.com/gravitational/teleport) (на базе его можно построить PAM)
 
 kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https://kyverno.io/)
 
