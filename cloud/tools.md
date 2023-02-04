@@ -25,3 +25,5 @@ kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https:
 методологии — SLSA, SAAM, ASVS
 
 [Packer](https://developer.hashicorp.com/packer) — инструмент от HashiCorp для создания образов ВМ для облачных платформ (поддерживает большое количество, в том числе и Yandex Cloud). Указываем спецификацию, токен, запускаем — получаем образ в нашем облаке. Позволяет описывать образы как код (IaaC подход)
+
+[Terraform](https://www.terraform.io/) —  управление сетевыми сервисами и еще чем-то на основе конфигов (разработано hashicorp). Off & Def Terraform: [https://www.youtube.com/watch?v=yt-3ndhMMn8](https://www.youtube.com/watch?v=yt-3ndhMMn8)
