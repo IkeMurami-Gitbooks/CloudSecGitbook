@@ -8,28 +8,7 @@ yc init
 
 // Show current config
 yc config list
-
-// Show profiles (congig groups)
-yc config profile list
 ```
-
-Команды CLI разделены на группы, каждая из которых соответствует сервису или компоненту Yandex Cloud. Например:
-
-* `yc resource-manager …` — управление облаками и каталогами;
-* `yc compute …` — управление ВМ;
-* `yc load-balancer …` — управление балансировщиками нагрузки.
-
-Управление кластерами баз данных:
-
-* `yc managed-mysql …` — MySQL;
-* `yc managed-postgresql …` — PostgreSQL;
-* `yc managed-clickhouse …` — ClickHouse.
-
-Есть ещё небольшая группа служебных команд:
-
-* `yc init` — первоначальная настройка CLI;
-* `yc version` — показывает версию CLI;
-* `yc help` — выводит описание всех команд или справку о команде.
 
 ## VM
 
