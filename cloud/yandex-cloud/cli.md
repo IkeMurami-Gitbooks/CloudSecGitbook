@@ -8,6 +8,9 @@ yc init
 
 // Show current config
 yc config list
+
+// Show profiles (congig groups)
+yc config profile list
 ```
 
 Команды CLI разделены на группы, каждая из которых соответствует сервису или компоненту Yandex Cloud. Например:
