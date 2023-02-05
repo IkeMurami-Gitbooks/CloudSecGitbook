@@ -75,3 +75,8 @@ $ yc serverless function get my-first-function
 ## Serverless YDB
 
 Отличие от обычной YDB, что здесь поддерживается Document API (совместимое с AWS Dinamo DB)
+
+В общем, есть AWS SDK для работы с Document API, и обычное SDK для работы с YDB.
+
+## Yandex Message Queue (YMQ)
+
