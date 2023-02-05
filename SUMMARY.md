@@ -4,6 +4,7 @@
 
 * [Какие бывают](README.md)
 * [Kubernetes](sandboxes-containers-virtualization/k8s/README.md)
+  * [About](sandboxes-containers-virtualization/k8s/about.md)
   * [Tools](sandboxes-containers-virtualization/k8s/tools/README.md)
     * [kubectl](sandboxes-containers-virtualization/k8s/tools/kubectl.md)
     * [minikube](sandboxes-containers-virtualization/k8s/tools/minikube.md)
