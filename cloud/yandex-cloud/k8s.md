@@ -1,4 +1,4 @@
-# k8s
+# Yandex k8s
 
 ## Secure Managed Service for Kubernetes
 

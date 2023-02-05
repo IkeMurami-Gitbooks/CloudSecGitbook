@@ -108,7 +108,7 @@
     * [Реляционные БД](cloud/yandex-cloud/data-platform/relyacionnye-bd.md)
     * [Нереляционные БД](cloud/yandex-cloud/data-platform/nerelyacionnye-bd.md)
     * [Object Storage and S3](cloud/yandex-cloud/data-platform/object-storage-and-s3.md)
-  * [Yandex k8s](cloud/yandex-cloud/yandex-k8s.md)
+  * [Yandex k8s](cloud/yandex-cloud/k8s.md)
   * [Serverless](cloud/yandex-cloud/serverless.md)
   * [Security](cloud/yandex-cloud/security.md)
 * [Another platforms](cloud/another-platforms.md)
