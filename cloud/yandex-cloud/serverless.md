@@ -1,5 +1,7 @@
 # Serverless
 
+Все это можно настраивать через AWS CLI, YC CLI/Console, или через Terraform.
+
 * Yandex Cloud Functions (CF)
 * API Gateway
 * Serverless YDB
@@ -80,3 +82,10 @@ $ yc serverless function get my-first-function
 
 ## Yandex Message Queue (YMQ)
 
+Примерно это так выглядит
+
+<figure><img src="../../.gitbook/assets/Image(5).png" alt=""><figcaption></figcaption></figure>
+
+YMQ поддерживает AWS API и другие подходы, которые используют в сервисе Amazon SQS, поэтому для работы с ними вы можете использовать уже существующие инструменты, например библиотеки **boto3** для Python.
+
+&#x20;
