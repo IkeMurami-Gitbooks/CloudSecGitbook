@@ -71,3 +71,7 @@ $ yc serverless function get my-first-function
 Прокси сервер
 
 <figure><img src="../../.gitbook/assets/Image(3).png" alt=""><figcaption></figcaption></figure>
+
+## Serverless YDB
+
+Отличие от обычной YDB, что здесь поддерживается Document API (совместимое с AWS Dinamo DB)
