@@ -111,6 +111,7 @@
   * [Yandex k8s](cloud/yandex-cloud/k8s.md)
   * [Serverless](cloud/yandex-cloud/serverless.md)
   * [Security](cloud/yandex-cloud/security.md)
+  * [Billing](cloud/yandex-cloud/billing.md)
 * [Another platforms](cloud/another-platforms.md)
 * [OpenStack](cloud/openstack.md)
 * [Tools](cloud/tools.md)
