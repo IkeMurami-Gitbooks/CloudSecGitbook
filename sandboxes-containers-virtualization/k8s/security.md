@@ -11,3 +11,7 @@ Awesome Security k8s: [https://github.com/magnologan/awesome-k8s-security](https
 Еще какой-то cheat sheet: [https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/red-team-tech-notes/-/blob/master/K8s-GKE-attack-notes/README.md](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/red-team-tech-notes/-/blob/master/K8s-GKE-attack-notes/README.md)
 
 k8s goat: [https://madhuakula.com/kubernetes-goat/](https://madhuakula.com/kubernetes-goat/)
+
+[https://github.com/kabachook/k8s-security](https://github.com/kabachook/k8s-security)
+
+Tools and Methods for Auditing Kubernetes RBAC Policies [https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/august/tools-and-methods-for-auditing-kubernetes-rbac-policies/](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/august/tools-and-methods-for-auditing-kubernetes-rbac-policies/)
