@@ -79,6 +79,7 @@
     * [Computing](cloud/aws/aws-components/computing.md)
     * [Storage](cloud/aws/aws-components/storage.md)
     * [Messaging](cloud/aws/aws-components/messaging.md)
+    * [Serverless](cloud/aws/aws-components/serverless.md)
     * [Business Productivity](cloud/aws/aws-components/business-productivity.md)
     * [Network and Content Delivery](cloud/aws/aws-components/network-and-content-delivery.md)
     * [Mobile](cloud/aws/aws-components/mobile.md)
