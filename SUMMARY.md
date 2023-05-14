@@ -120,5 +120,6 @@
   * [Packer](cloud/tools/packer.md)
   * [Terraform](cloud/tools/terraform/README.md)
     * [Intro](cloud/tools/terraform/intro.md)
+    * [Getting started](cloud/tools/terraform/getting-started.md)
     * [Security](cloud/tools/terraform/security.md)
 * [Papers](cloud/papers.md)
