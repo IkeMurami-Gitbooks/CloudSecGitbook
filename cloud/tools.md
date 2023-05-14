@@ -23,5 +23,3 @@ Zero Trust Proxy для доступа к инфраструктуре: [https:/
 kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https://kyverno.io/)
 
 методологии — SLSA, SAAM, ASVS
-
-[Packer](https://developer.hashicorp.com/packer) — инструмент от HashiCorp для создания образов ВМ для облачных платформ (поддерживает большое количество, в том числе и Yandex Cloud). Указываем спецификацию, токен, запускаем — получаем образ в нашем облаке. Позволяет описывать образы как код (IaaC подход)
