@@ -12,3 +12,20 @@
 terraform init
 ```
 
+Проверяем синтаксис:
+
+```
+terraform fmt
+```
+
+Проверяем, что будет развернуто
+
+```
+terraform validate
+```
+
+Применяем конфигурацию
+
+```
+terraform apply
+```
