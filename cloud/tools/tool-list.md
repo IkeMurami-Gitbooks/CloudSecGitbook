@@ -1,4 +1,4 @@
-# Tools
+# Tool list
 
 checkov - тестировавние конфигурации облачных контейнеров [https://github.com/bridgecrewio/checkov/](https://github.com/bridgecrewio/checkov/)
 
@@ -25,5 +25,3 @@ kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https:
 методологии — SLSA, SAAM, ASVS
 
 [Packer](https://developer.hashicorp.com/packer) — инструмент от HashiCorp для создания образов ВМ для облачных платформ (поддерживает большое количество, в том числе и Yandex Cloud). Указываем спецификацию, токен, запускаем — получаем образ в нашем облаке. Позволяет описывать образы как код (IaaC подход)
-
-[Terraform](https://www.terraform.io/) —  управление облачной инфраструктурой через написание конфигов (IaaC подход, разработано hashicorp). Off & Def Terraform: [https://www.youtube.com/watch?v=yt-3ndhMMn8](https://www.youtube.com/watch?v=yt-3ndhMMn8)
