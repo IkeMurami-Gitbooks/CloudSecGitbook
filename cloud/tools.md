@@ -6,7 +6,7 @@ SadCloud - [https://github.com/nccgroup/sadcloud](https://github.com/nccgroup/sa
 
 ScoutSuite — [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 
-k8s,k3s,prometheus,thanos,helm
+k8s, k3s, prometheus, thanos, helm
 
 cloudquery – позволяет настраивать asset management вашей облачной инфраструктуры [https://www.cloudquery.io/](https://www.cloudquery.io/)
 
@@ -23,3 +23,6 @@ Zero Trust Proxy для доступа к инфраструктуре: [https:/
 kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https://kyverno.io/)
 
 методологии — SLSA, SAAM, ASVS
+
+[Puppet](https://puppet.com/open-source/#osp) — Служит для управления сетью машин
+
