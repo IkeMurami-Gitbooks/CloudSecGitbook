@@ -50,6 +50,7 @@
   * [Horizon Security Server](sandboxes-containers-virtualization/vmware/horizon-security-server.md)
   * [VMWare log4j](sandboxes-containers-virtualization/vmware/vmware-log4j.md)
 * [Tools](sandboxes-containers-virtualization/tools.md)
+  * [Build container image inside containers](sandboxes-containers-virtualization/tools/build-container-image-inside-containers.md)
   * [Moby](sandboxes-containers-virtualization/tools/moby.md)
   * [Security](sandboxes-containers-virtualization/tools/security.md)
 
