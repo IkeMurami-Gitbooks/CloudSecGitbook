@@ -26,3 +26,4 @@ kyverno — Kubernetes Native Policy Management — [https://kyverno.io/](https:
 
 [Puppet](https://puppet.com/open-source/#osp) — Служит для управления сетью машин
 
+Hashicorp Vault — хранилище секретов. [hvac](https://hvac.readthedocs.io/en/stable/overview.html) — Python-клиент к Vault.
