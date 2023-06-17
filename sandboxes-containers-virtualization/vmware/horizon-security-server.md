@@ -4,9 +4,5 @@
 
 ​Какие сервисы по умолчанию открыты:​
 
-| Port | Service              |   |
-| ---- | -------------------- | - |
-| 443  | Main page            |   |
-| 4172 | PCoIP Secure Gateway |   |
-| 8443 | Blast Secure Gateway |   |
+<table><thead><tr><th>Port</th><th width="196">Service</th><th></th></tr></thead><tbody><tr><td>443</td><td>Main page</td><td></td></tr><tr><td>4172</td><td>PCoIP Secure Gateway</td><td></td></tr><tr><td>8443</td><td>Blast Secure Gateway</td><td></td></tr></tbody></table>
 

@@ -123,5 +123,5 @@
     * [Intro](cloud/tools/terraform/intro.md)
     * [Getting started](cloud/tools/terraform/getting-started.md)
     * [Security](cloud/tools/terraform/security.md)
-    * [Pappers](cloud/tools/terraform/pappers.md)
+    * [Papers](cloud/tools/terraform/papers.md)
 * [Papers](cloud/papers.md)
