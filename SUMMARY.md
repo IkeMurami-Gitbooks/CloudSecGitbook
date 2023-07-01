@@ -126,6 +126,8 @@
       * [Terraform Block](cloud/tools/terraform/configuration/terraform-block.md)
       * [Providers](cloud/tools/terraform/configuration/providers.md)
       * [Resources](cloud/tools/terraform/configuration/resources.md)
+      * [Variables](cloud/tools/terraform/configuration/variables.md)
+      * [Outputs](cloud/tools/terraform/configuration/outputs.md)
     * [Security](cloud/tools/terraform/security.md)
     * [Papers](cloud/tools/terraform/papers.md)
 * [Papers](cloud/papers.md)
