@@ -128,6 +128,7 @@
       * [Resources](cloud/tools/terraform/configuration/resources.md)
       * [Variables](cloud/tools/terraform/configuration/variables.md)
       * [Outputs](cloud/tools/terraform/configuration/outputs.md)
+      * [Functions](cloud/tools/terraform/configuration/functions.md)
     * [Security](cloud/tools/terraform/security.md)
     * [Papers](cloud/tools/terraform/papers.md)
 * [Papers](cloud/papers.md)
