@@ -14,5 +14,5 @@ outputs.tf
 Перед применением конфигурации модули нужно загрузить:
 
 ```
-terraform get
+terraform get -update=true
 ```
