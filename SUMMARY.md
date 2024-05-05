@@ -99,6 +99,7 @@
   * [Courses & Certifications](cloud/aws/courses-and-certifications.md)
 * [Yandex Cloud](cloud/yandex-cloud/README.md)
   * [YC CLI](cloud/yandex-cloud/cli.md)
+  * [YC API](cloud/yandex-cloud/yc-api.md)
   * [Cloud Organization](cloud/yandex-cloud/cloud-organization.md)
   * [VM](cloud/yandex-cloud/vm/README.md)
     * [Cloud Computing](cloud/yandex-cloud/cloud-computing.md)
