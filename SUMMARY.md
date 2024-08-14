@@ -20,6 +20,7 @@
   * [containerd](sandboxes-containers-virtualization/cri/containerd.md)
   * [CRI-0](sandboxes-containers-virtualization/cri/cri-0.md)
   * [Podman](sandboxes-containers-virtualization/cri/podman.md)
+  * [Colima](sandboxes-containers-virtualization/cri/colima.md)
   * [Docker](sandboxes-containers-virtualization/cri/docker/README.md)
     * [About](sandboxes-containers-virtualization/cri/docker/about.md)
     * [CLI](sandboxes-containers-virtualization/cri/docker/cli.md)
